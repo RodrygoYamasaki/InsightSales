@@ -1,1 +1,1 @@
-# 📊 DashVendas
+# 📊 InsightSales
