@@ -1,0 +1,55 @@
+Data,Produto,Categoria,Quantidade,Preco_Unitario,Cliente,Regiao,Forma_Pagamento,Valor_Total
+2024-01-05,Notebook Gamer XP15,Eletrônicos,1,4500.0,Ana Silva,Sudeste,Cartão de Crédito,4500.0
+2024-01-05,Mouse Óptico Z4,Acessórios,3,45.99,Bruno Costa,Nordeste,PIX,137.97
+2024-01-06,Cafeteira Expresso 1.5L,Eletrodomésticos,1,399.9,Carlos Santos,Sul,Cartão de Crédito,399.9
+2024-01-06,Fone Bluetooth X9,Eletrônicos,2,129.5,Daniela Oliveira,Centro-Oeste,Boleto,259.0
+2024-01-07,Teclado Mecânico RGB,Acessórios,1,289.9,Eduardo Pereira,Sudeste,PIX,289.9
+2024-01-07,Smart TV 50 UHD,Eletrônicos,1,2800.0,Fernanda Lima,Nordeste,Cartão de Crédito,2800.0
+2024-01-08,Liquidificador Power,Eletrodomésticos,1,180.0,Gabriel Almeida,Norte,PIX,180.0
+2024-01-08,Câmera de Segurança IP,Eletrônicos,4,220.0,Helena Souza,Sudeste,Boleto,880.0
+2024-01-09,Webcam HD Pro,Acessórios,2,85.0,Igor Ferreira,Sul,Cartão de Crédito,170.0
+2024-01-09,Geladeira Frost Free,Eletrodomésticos,1,3500.0,Júlia Martins,Centro-Oeste,PIX,3500.0
+2024-01-10,Notebook Gamer XP15,Eletrônicos,1,4500.0,Lucas Rocha,Nordeste,Cartão de Crédito,4500.0
+2024-01-10,Mouse Óptico Z4,Acessórios,5,45.99,Mariana Pires,Norte,PIX,229.95000000000002
+2024-01-11,Cafeteira Expresso 1.5L,Eletrodomésticos,2,399.9,Nuno Mendes,Sudeste,Boleto,799.8
+2024-01-11,Fone Bluetooth X9,Eletrônicos,1,129.5,Olívia Castro,Sul,Cartão de Crédito,129.5
+2024-01-12,Teclado Mecânico RGB,Acessórios,3,289.9,Pedro Henrique,Centro-Oeste,PIX,869.6999999999999
+2024-01-12,Smart TV 50 UHD,Eletrônicos,1,2800.0,Queila Gomes,Sudeste,Cartão de Crédito,2800.0
+2024-01-13,Liquidificador Power,Eletrodomésticos,1,180.0,Rafael Borges,Nordeste,Boleto,180.0
+2024-01-13,Câmera de Segurança IP,Eletrônicos,2,220.0,Sofia Tavares,Norte,PIX,440.0
+2024-01-14,Webcam HD Pro,Acessórios,1,85.0,Thiago Nunes,Sul,Cartão de Crédito,85.0
+2024-01-14,Notebook Gamer XP15,Eletrônicos,1,4500.0,Úrsula Vieira,Sudeste,PIX,4500.0
+2024-01-15,Geladeira Frost Free,Eletrodomésticos,1,3500.0,Vitor Lemos,Nordeste,Cartão de Crédito,3500.0
+2024-01-15,Mouse Óptico Z4,Acessórios,1,45.99,Wallace Xavier,Centro-Oeste,Boleto,45.99
+2024-01-16,Cafeteira Expresso 1.5L,Eletrodomésticos,1,399.9,Yara Zaccaro,Norte,PIX,399.9
+2024-01-16,Fone Bluetooth X9,Eletrônicos,3,129.5,Zeca Albuquerque,Sudeste,Cartão de Crédito,388.5
+2024-01-17,Teclado Mecânico RGB,Acessórios,2,289.9,Alice Benicio,Sul,PIX,579.8
+2024-01-17,Smart TV 50 UHD,Eletrônicos,1,2800.0,Bento Carmo,Nordeste,Boleto,2800.0
+2024-01-18,Liquidificador Power,Eletrodomésticos,2,180.0,Cecília Dantas,Sudeste,Cartão de Crédito,360.0
+2024-01-18,Câmera de Segurança IP,Eletrônicos,1,220.0,Davi Estevão,Centro-Oeste,PIX,220.0
+2024-01-19,Webcam HD Pro,Acessórios,4,85.0,Elisa Freitas,Norte,Cartão de Crédito,340.0
+2024-01-19,Geladeira Frost Free,Eletrodomésticos,1,3500.0,Felipe Gusmão,Sul,Boleto,3500.0
+2024-01-20,Notebook Gamer XP15,Eletrônicos,1,4500.0,Giovana Honorato,Sudeste,PIX,4500.0
+2024-01-20,Mouse Óptico Z4,Acessórios,2,45.99,Heitor Inácio,Nordeste,Cartão de Crédito,91.98
+2024-01-21,Cafeteira Expresso 1.5L,Eletrodomésticos,1,399.9,Isabela Jardim,Centro-Oeste,PIX,399.9
+2024-01-21,Fone Bluetooth X9,Eletrônicos,1,129.5,Jonas Kaled,Norte,Boleto,129.5
+2024-01-22,Teclado Mecânico RGB,Acessórios,1,289.9,Laura Leitão,Sul,Cartão de Crédito,289.9
+2024-01-22,Smart TV 50 UHD,Eletrônicos,1,2800.0,Marcos Neves,Sudeste,PIX,2800.0
+2024-01-23,Liquidificador Power,Eletrodomésticos,1,180.0,Natália Ortiz,Nordeste,Cartão de Crédito,180.0
+2024-01-23,Câmera de Segurança IP,Eletrônicos,3,220.0,Otávio Paula,Norte,Boleto,660.0
+2024-01-24,Webcam HD Pro,Acessórios,2,85.0,Patrícia Quirino,Sudeste,PIX,170.0
+2024-01-24,Geladeira Frost Free,Eletrodomésticos,1,3500.0,Renato Rocha,Sul,Cartão de Crédito,3500.0
+2024-01-25,Notebook Gamer XP15,Eletrônicos,1,4500.0,Samara Santos,Centro-Oeste,Boleto,4500.0
+2024-01-25,Mouse Óptico Z4,Acessórios,1,45.99,Tadeu Teixeira,Nordeste,PIX,45.99
+2024-01-26,Cafeteira Expresso 1.5L,Eletrodomésticos,1,399.9,Úrsula Vieira,Sudeste,Cartão de Crédito,399.9
+2024-01-26,Fone Bluetooth X9,Eletrônicos,2,129.5,Vitor Lemos,Norte,Boleto,259.0
+2024-01-27,Teclado Mecânico RGB,Acessórios,1,289.9,Wallace Xavier,Sul,PIX,289.9
+2024-01-27,Smart TV 50 UHD,Eletrônicos,1,2800.0,Yara Zaccaro,Centro-Oeste,Cartão de Crédito,2800.0
+2024-01-28,Liquidificador Power,Eletrodomésticos,1,180.0,Zeca Albuquerque,Sudeste,Boleto,180.0
+2024-01-28,Câmera de Segurança IP,Eletrônicos,2,220.0,Alice Benicio,Nordeste,PIX,440.0
+2024-01-29,Webcam HD Pro,Acessórios,1,85.0,Bento Carmo,Norte,Cartão de Crédito,85.0
+2024-01-29,Geladeira Frost Free,Eletrodomésticos,1,3500.0,Cecília Dantas,Sul,PIX,3500.0
+2024-01-30,Notebook Gamer XP15,Eletrônicos,1,4500.0,Davi Estevão,Sudeste,Boleto,4500.0
+2024-01-30,Mouse Óptico Z4,Acessórios,3,45.99,Elisa Freitas,Centro-Oeste,Cartão de Crédito,137.97
+2024-01-31,Cafeteira Expresso 1.5L,Eletrodomésticos,1,399.9,Felipe Gusmão,Nordeste,PIX,399.9
+2024-01-31,Fone Bluetooth X9,Eletrônicos,1,129.5,Giovana Honorato,Norte,Boleto,129.5
